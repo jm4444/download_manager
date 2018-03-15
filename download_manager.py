@@ -7,7 +7,7 @@ for file in os.listdir("../"):
     if os.path.isdir("../" + str(file)) == True:    # This skips directories
         continue
 
-    if file.lower().endswith('.exe'):
+    if file.lower().endswith(('.exe', '.whl')):
         os.rename("../" + file, "../Installers/" + file)
     elif file.lower().endswith(('.jpg', '.jpeg', '.png')) or file.lower().endswith(('.gif')):
         os.rename("../" + file, "../Images/" + file)
