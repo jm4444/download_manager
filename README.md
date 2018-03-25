@@ -1,7 +1,6 @@
 A program for managing files in the Downloads folder on Windows
 
-Place the program in a folder of your choosing, then place that folder inside of the Downloads folder on your system.
-For Example, the path to your file could look like: "../Downloads/Download_Manager_Folder/download_manager.py
+Place the program inside of the Downloads folder on your system.
 
 Create these folders in your Downloads folder:
   * "Installers" - files used to install programs
@@ -9,7 +8,7 @@ Create these folders in your Downloads folder:
   * "MicrosoftOffice Files" - Microsoft Word, Powerpoint, and Excel files
   * "PDFs" - for PDF files
   * "Misc" - for any files that do not fit into any of the above categories
-  
+
 To rename these folders or to create your own, simple place the new/renamed folder in the Downloads folder.
 Then go into the program and change the file extensions and paths accordingly.
 
