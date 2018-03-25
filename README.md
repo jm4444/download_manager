@@ -9,7 +9,7 @@ Create these folders in your Downloads folder:
   * "PDFs" - for PDF files
   * "Misc" - for any files that do not fit into any of the above categories
 
-To rename these folders or to create your own, simple place the new/renamed folder in the Downloads folder.
+To rename these folders or to create your own, simply place the new/renamed folder in the Downloads folder.
 Then go into the program and change the file extensions and paths accordingly.
 
 To run the program, double click it or navigate to the program's location in the terminal, and run it using:
